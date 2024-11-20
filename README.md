@@ -6,7 +6,7 @@
     Linguagens backend: <strong>Python</strong>, <strong>C++</strong> e <strong>Golang</strong>.
   </p>
   <p aling="left">
-    Linguagens forntend: <strong>HTML</strong>, <strong>CSS</strong>, <strong>PHP</strong> e <strong>JavaScript</strong>.
+    Linguagens frontend: <strong>HTML</strong>, <strong>CSS</strong>, <strong>PHP</strong> e <strong>JavaScript</strong>.
   </p>
 </div>
 
